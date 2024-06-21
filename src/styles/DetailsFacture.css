@@ -1,0 +1,23 @@
+.DetailsFacture {
+    margin-top: 20px;
+}
+
+.DetailsFacture table {
+    width: 100%;
+    border-collapse: collapse;
+    margin-bottom: 20px;
+}
+
+.DetailsFacture th, .DetailsFacture td {
+    border: 1px solid #ccc;
+    padding: 10px;
+}
+
+.DetailsFacture th {
+    background-color: #007bff;
+    color: white;
+}
+
+.DetailsFacture td {
+    text-align: center;
+}

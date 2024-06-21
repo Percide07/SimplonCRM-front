@@ -1,0 +1,31 @@
+.Article {
+    margin-bottom: 10px;
+}
+
+.Article .article-info {
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 5px;
+}
+
+.Article .article-info span {
+    font-weight: bold;
+}
+
+.Article .article-info .actions {
+    display: flex;
+    align-items: center;
+}
+
+.Article .article-info .actions button {
+    background-color: #dc3545;
+    color: white;
+    padding: 5px 10px;
+    border: none;
+    cursor: pointer;
+    margin-left: 5px;
+}
+
+.Article .article-info .actions button:hover {
+    background-color: #bd2130;
+}

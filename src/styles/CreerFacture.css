@@ -1,0 +1,21 @@
+.CreerFacture {
+    border: 1px solid #ccc;
+    padding: 20px;
+    margin-top: 20px;
+}
+
+.CreerFacture h2 {
+    margin-bottom: 20px;
+}
+
+.CreerFacture button {
+    background-color: #007bff;
+    color: #fff;
+    padding: 10px;
+    border: none;
+    cursor: pointer;
+}
+
+.CreerFacture button:hover {
+    background-color: #0056b3;
+}

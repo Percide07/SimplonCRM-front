@@ -1,0 +1,17 @@
+.ArticleList {
+    margin-top: 20px;
+}
+
+.ArticleList .article {
+    border: 1px solid #ccc;
+    padding: 10px;
+    margin-bottom: 10px;
+}
+
+.ArticleList .article h3 {
+    margin-top: 0;
+}
+
+.ArticleList .article p {
+    margin-bottom: 5px;
+}
