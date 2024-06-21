@@ -1,0 +1,54 @@
+Tâches à Faire
+
+Backlog Général
+1. Configuration de l'environnement de développement
+   - Installer les dépendances nécéssaires
+   - Créer un projet ReactJS
+   - Initialiser Git et le dépôt GitHub
+
+Component App
+1. Création du Component App
+   - Définir le layout principal de l'application
+   - Intégrer le Component CreerFacture
+   - Intégrer le Component FactureList
+
+Component CreerFacture
+1. Création du Component CreerFacture
+   - Intégrer le Component AjouterDetailsFacture
+   - Intégrer le Component ArticleList
+
+Component AjouterDetailsFacture
+1. Création du Component AjouterDetailsFacture
+   - Créer le formulaire pour le nom du client et la date de facture
+   - Valider et gérer l'état de la création de la facture
+
+Component ArticleList
+1. Création du Component ArticleList
+   - Intégrer la liste des components Article
+
+Component Article
+1. Création du Component Article
+   - Définir les champs et la logique pour chaque article
+   - Intégrer les champs générés à partir de la table des produits
+   - Intégrer les remises générées à partir de la table des remises
+   - Calculer le montant total
+
+Component FactureList
+1. Création du Component FactureList
+   - Afficher la liste des factures avec les informations de base
+   - Créer un bouton pour voir les détails de chaque facture (modal)
+
+Component DetailsFacture
+1. Création du Component DetailsFacture
+   - Afficher la liste des articles ajoutés à la facture dans un modal
+   - Intégrer le calcul des montants HT, TVA et TTC
+
+Component AjouterClient
+1. Création du Component AjouterClient
+   - Créer le formulaire pour ajouter les informations d'un client
+   - Valider et enregistrer les informations du client
+
+Styling
+1. Stylisation et CSS
+   - Appliquer un design moderne, responsive et intuitif
+   - Adapter le style pour chaque composant et interaction

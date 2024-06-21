@@ -44,7 +44,7 @@ class FactureList extends Component {
                             <th>Montant HT</th>
                             <th>Montant TVA</th>
                             <th>Montant TTC</th>
-                            <th>Actions</th>
+                            <th>Détails de Facture</th>
                         </tr>
                     </thead>
                     <tbody>
